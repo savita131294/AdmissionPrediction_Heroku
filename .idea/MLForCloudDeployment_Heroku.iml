@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/new" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (MLForCloudDeployment_Heroku)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (MLForCloudDeployment_Heroku1)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
